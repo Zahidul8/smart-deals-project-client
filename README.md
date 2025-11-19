@@ -1,16 +1,33 @@
-# React + Vite
+# 🌟 Smart Deals
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live Demo](https://smart-deals-project-db.netlify.app/)
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Smart Deals** is a modern web application designed to help users discover the best deals and offers across various products and services. The platform focuses on providing an intuitive, fast, and seamless shopping experience by aggregating offers, highlighting discounts, and enabling users to make informed purchase decisions.  
 
-## React Compiler
+Built with a **MERN stack (MongoDB, Express.js, React.js, Node.js)**, Smart Deals demonstrates best practices in full-stack web development, including responsive design, user authentication, dynamic content management, and performance optimization.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Key Features
 
-## Expanding the ESLint configuration
+- **User-Friendly Interface:** Clean and responsive UI for seamless navigation across devices.
+- **Deal Aggregation:** Browse and search for the latest deals across multiple categories.
+- **Secure Authentication:** Sign up and log in securely using JWT-based authentication.
+- **Dynamic Filtering & Sorting:** Easily filter deals by category, price, or popularity.
+- **Real-Time Updates:** Get the latest deals without refreshing the page.
+- **Admin Panel:** Manage deals and monitor user activity efficiently.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Hosting:** Netlify (Frontend) & Backend deployed on [Add your backend hosting here]
+
+### Live Demo
+
+Experience the project here: [Smart Deals Live](https://smart-deals-project-db.netlify.app/)
+
+---
+
+**Smart Deals** is ideal for developers who want to explore full-stack applications, e-commerce deal aggregation, and modern web technologies in a real-world scenario.
